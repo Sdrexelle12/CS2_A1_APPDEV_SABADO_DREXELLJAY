@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity 1</title>
+</head>
+<body>
+    <h1 style="text-align:center; background-color: green;">MY DATA</h1>
+
+    <p style="text-align:center; color:red;" ><b> Im drexelljay Sabado I used to play basketball every afterrnoon after class.</b></p>
+
+    <p style="text-align:left; color:blue;" > <i> My favorite subject when i was first year is Fundamental programming,because i love coding. </i></p>
+
+    <p style="text-align:right; color:green;"><strong>Im feeling lonely </strong></p>
+
+</body>
+</html>
